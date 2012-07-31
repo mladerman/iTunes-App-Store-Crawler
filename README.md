@@ -9,3 +9,6 @@ The script must be run twice to be effective:
 
 2) Set operation to "apps" in order to get the information for those links
 
+After running 2), a large set of csv files will be generated. You may concatenate them using the following command:
+
+$cat *.csv > filename
