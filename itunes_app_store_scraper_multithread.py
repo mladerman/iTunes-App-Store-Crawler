@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        itunes_app_store_scraper.py
+# Name:        itunes_app_store_scraper_multithread.py
 # Purpose:     To crawl the itunes app store to put together a data set for
 #              individual apps
 #
