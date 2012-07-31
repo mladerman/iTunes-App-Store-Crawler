@@ -11,7 +11,7 @@ The script must be run twice to be effective:
 
 After running 2), a large set of csv files will be generated. You may concatenate them using the following command:
 
-#$cat *.csv > filename#
+>$cat *.csv > filename
 
 Dependencies
 ========================
